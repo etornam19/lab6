@@ -1,5 +1,5 @@
 body {
-  background-image: url("/black.jpg");
+  background-image: url("black.jpg");
 }
   
 #page-wrapper {
@@ -59,17 +59,17 @@ body {
 }
   
 h2 strong {
-    font-size: 2em;
-    font-weight: 900;
+  font-size: 2em;
+  font-weight: 900;
 }
   
 .image-r {
-    float: right;
-    border: 2px solid blue;
-    width: 300px;
-    padding: 5px;
-    background-color: white;
-    margin: 10px 0 10px 20px;
+  float: right;
+  border: 2px solid blue;
+  width: 300px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px 0 10px 20px;
 }
   
 #side-content {
@@ -79,9 +79,9 @@ h2 strong {
 }
   
 #main-nav {
-    float: left;
-    width: 100%;
-    background-color: #333;
+  float: left;
+  width: 100%;
+  background-color: #333;
 }
   
 #main-nav ul {
